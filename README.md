@@ -7,6 +7,8 @@
     - 회원가입 시, 구글과 깃허브로 회원 가입 기능
     - 트윗 작성 기능
     
-    <img src="https://github.com/testerhyuk/twitterclone/blob/main/img/twitter_login.PNG?raw=true>
+    <img src="https://github.com/testerhyuk/twitterclone/blob/main/img/twitter_login.PNG?raw=true">
+    <br>
     <img src="https://github.com/testerhyuk/twitterclone/blob/main/img/%EC%BA%A1%EC%B2%98.PNG?raw=true">
+    <br>
     <img src="https://github.com/testerhyuk/twitterclone/blob/main/img/%EC%BA%A1%EC%B2%982.PNG?raw=true">
